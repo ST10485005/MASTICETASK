@@ -19,5 +19,8 @@ How to Play
 
 
 Pictures
+
+
+
 <img src="https://github.com/ST10485005/MASTICETASK/blob/5e93488bc80c4d5c5ba154acd5f781dd4faf40cf/Screenshot%202025-08-14%20at%2010.42.10.png" width="300"/>
-<img src="https://github.com/VCSTDN2024/imad-assignment-2-ST10485005/blob/cbc9e1d9fdc798d56459f6db4fd622b473110952/Screenshot%202025-05-23%20at%2016.11.24.png" alt="image alt" width="300"/>
+<img src="https://github.com/ST10485005/MASTICETASK/blob/0d51530056f950cc9adf04c1ffacb6f49d6de4cf/Screenshot%202025-08-14%20at%2010.42.20.png" width="300"/>
