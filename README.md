@@ -1,4 +1,5 @@
 Michael Gouveia- ST10485005
+
 Mystery Number Challenge
 
 A simple guessing game built with React Native and TypeScript.  
@@ -22,5 +23,5 @@ Pictures
 
 
 
-<img src="https://github.com/ST10485005/MASTICETASK/blob/5e93488bc80c4d5c5ba154acd5f781dd4faf40cf/Screenshot%202025-08-14%20at%2010.42.10.png" width="300"/>
-<img src="https://github.com/ST10485005/MASTICETASK/blob/0d51530056f950cc9adf04c1ffacb6f49d6de4cf/Screenshot%202025-08-14%20at%2010.42.20.png" width="300"/>
+<img src="https://github.com/ST10485005/MASTICETASK/blob/5e93488bc80c4d5c5ba154acd5f781dd4faf40cf/Screenshot%202025-08-14%20at%2010.42.10.png" width="300"/>  <img src="https://github.com/ST10485005/MASTICETASK/blob/0d51530056f950cc9adf04c1ffacb6f49d6de4cf/Screenshot%202025-08-14%20at%2010.42.20.png" width="300"/>
+
