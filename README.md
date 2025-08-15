@@ -14,8 +14,11 @@ Features
 
 How to Play
 1.⁠ ⁠Enter a number between 1 and 100 in the input field.
+
 2.⁠ ⁠Press *"Submit Guess"* to check your guess.
+
 3.⁠ ⁠Read the feedback and try again until you guess correctly.
+
 4.⁠ ⁠Press *"Restart Game"* to start over with a new number.
 
 
